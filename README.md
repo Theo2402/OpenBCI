@@ -12,3 +12,7 @@ https://youtu.be/A9RLQuxv_qM
 ![IMG_5627](https://user-images.githubusercontent.com/63469819/146222163-c65c8af7-0d2e-4409-b7b5-50aaf5bc4ab6.jpg)
 ![IMG_5626](https://user-images.githubusercontent.com/63469819/146222270-d6c72e91-d84a-429c-8d3f-0b733d6de252.jpg)
 
+# Testing the headset
+
+![IMG_8638](https://user-images.githubusercontent.com/63469819/146384897-b1127be6-39a3-4790-9b48-97c5c62493d4.jpg)
+
