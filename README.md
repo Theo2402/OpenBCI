@@ -16,6 +16,6 @@ https://youtu.be/A9RLQuxv_qM
 
 # Testing the headset
 
-<img src="https://user-images.githubusercontent.com/63469819/146384897-b1127be6-39a3-4790-9b48-97c5c62493d4.jpg" width="500" height="600">
+<img src="https://user-images.githubusercontent.com/63469819/146384897-b1127be6-39a3-4790-9b48-97c5c62493d4.jpg" width="500" height="500">
 
 
